@@ -1,13 +1,13 @@
-# Plan de Medios 每 Comunidad de Madrid
+# Plan de Medios 穡C Comunidad de Madrid
 
-Aplicaci車n p迆blica para la consulta y an芍lisis del gasto en publicidad institucional
-de la Comunidad de Madrid (2021每2024).
+Aplicaci籀n para la consulta y an獺lisis del gasto en publicidad institucional
+de la Comunidad de Madrid (2021-2024).
 
 ## Funcionalidades
 - Consulta por periodo, tipo y soporte
-- Modo periodista (consultas r芍pidas)
-- Visualizaci車n del gasto
-- Exportaci車n de informes PDF
+- Modo periodista (consultas r獺pidas)
+- Visualizaci籀n del gasto
+- Exportaci籀n de informes PDF
 - Acceso a fuentes oficiales
 
 ## Autor
