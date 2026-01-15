@@ -1,4 +1,4 @@
-# Plan de Medios ¨C Comunidad de Madrid
+# Consulta del Plan de Medios de la Comunidad de Madrid
 
 Aplicación para la consulta y análisis del gasto en publicidad institucional
 de la Comunidad de Madrid (2021-2024).
